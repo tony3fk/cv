@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "Antonio Rodriguez",
+    "occupation": "Desarrollador Web",
+    "description": "Soy un desarrollador web recién titulado interesado en proyectos que requieren un pensamiento creativo y analítico, y doy prioridad a la experiencia del usuario en mi trabajo.",
+    "image": "profilepic.jpg",
+    "bio": "Soy fotógrafo, apasionado de la tecnología y el diseño web. Recién titulado en Desarrollo de Aplicaciones Web e interesado en proyectos que requieren un pensamiento creativo y analítico. Doy prioridad a la experiencia del usuario en mi trabajo.",
+    "contactmessage": "Contacto",
+    "email": "tony3fk@yahoo.es",
+    "phone": "+34 698 415 282",
+    "address": {
+      "street": "Ruzafa",
+      "city": "Valencia",
+      "state": "Spain",
+      "zip": "46006"
+    },
+    "website": "http://www.tonydev.com",
+    "resumedownload": "#",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com/tonyrodz_",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "google-plus",
+        "url": "http://googleplus.com/",
+        "className": "fa fa-google-plus"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tonyrodz/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tonyr0dz",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tony3fk",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "skype",
+        "url": "http://skype.com/",
+        "className": "fa fa-skype"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "I.E.S. Abastos (Valencia)",
+        "degree": "Técnico Superior en Desarrollo Web",
+        "graduated": "Mayo 2020",
+        "description": "Experiencia apasionante. Han sido tres años de continuo aprendizaje y dedicación. Tanto en el campo del desarrollo fullstack, como en el diseño."
+      }
+    ],
+    "work": [
+      {
+        "company": "Minsait by Indra Sistemas",
+        "title": "Alumno en prácticas ",
+        "years": "March 2020 - Presente",
+        "description": "Estuve formándome en desarrollo de aplicaciones web en un entorno con Hibernate utilizando JSP. También colaboré en mi proceso de formación, con desarrolladores de backend y diseñadores de UX, aprendiendo nuevos conceptos en Laravel y ReactJS."
+      },
+      {
+        "company": "Freelance",
+        "title": "Fotografía Profesional",
+        "years": "March 2015 - Presente",
+        "description": "Fotografía artística, de eventos sociales, y paisajística. Maquetación, edición y retoque fotográfico con software especializado."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "Java",
+        "level": "70%"
+      },
+      {
+        "name": "PHP",
+        "level": "90%"
+      },
+      {
+        "name": "Mysql",
+        "level": "90%"
+      },
+      {
+        "name": "Laravel",
+        "level": "50%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "90%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "Angular 8",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Gestión Inmobiliaria",
+        "category": "App adaptable a cualquier catálogo de negocio. Mi proyecto de fin de curso.",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://gestioninmobiliaria.herokuapp.com/"
+      },
+      {
+        "title": "Turismo Ecuador",
+        "category": "Mi primer proyecto, lo presenté al Ministerio de Turismo de Ecuador",
+        "image": "smirkspace.jpg",
+        "url": "https://ecuaproject.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "«I've always been more interested in the future than in the past.» ",
+        "user": "Grace Hopper"
+      }
+    ]
+  }
+}
