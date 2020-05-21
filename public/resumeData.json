@@ -14,8 +14,8 @@
       "state": "Spain",
       "zip": "46006"
     },
-    "website": "http://www.tonydev.com",
-    "resumedownload": "#",
+    "website": "http://tonyrodz.zine.press/",
+    "resumedownload": "",
     "social": [
       {
         "name": "facebook",
@@ -146,6 +146,18 @@
         "category": "Mi primer proyecto, lo presenté al Ministerio de Turismo de Ecuador",
         "image": "smirkspace.jpg",
         "url": "https://ecuaproject.herokuapp.com/"
+      },
+      {
+        "title": "React Pixabay",
+        "category": "App React buscador de imágenes libres de derechos en Pixabay",
+        "image": "reactpix.jpg",
+        "url": "https://tony3fk.github.io/react-pixabai/"
+      },
+      {
+        "title": "Angular Portfolio",
+        "category": "Portfolio de diseño con Angular 8 ",
+        "image": "portfolio.jpg",
+        "url": "https://tony3fk.github.io/Angular-Portfolio/"
       }
     ]
   },
