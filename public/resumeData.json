@@ -14,23 +14,13 @@
       "state": "Spain",
       "zip": "46006"
     },
-    "website": "http://tonyrodz.zine.press/",
-    "resumedownload": "",
+    "website": "http://www.tonydev.com",
+    "resumedownload": "https://drive.google.com/file/d/17sXayU3A-GChf6YV56cy8BjoewlEXIlu/view?usp=sharing",
     "social": [
-      {
-        "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
-        "className": "fa fa-facebook"
-      },
       {
         "name": "twitter",
         "url": "http://twitter.com/tonyrodz_",
         "className": "fa fa-twitter"
-      },
-      {
-        "name": "google-plus",
-        "url": "http://googleplus.com/",
-        "className": "fa fa-google-plus"
       },
       {
         "name": "linkedin",
@@ -46,11 +36,6 @@
         "name": "github",
         "url": "http://github.com/tony3fk",
         "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com/",
-        "className": "fa fa-skype"
       }
     ]
   },
