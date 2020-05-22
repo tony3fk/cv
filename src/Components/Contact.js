@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import emailjs from 'emailjs-com';
+
 
 class Contact extends Component {
   render() {
@@ -13,8 +15,21 @@ class Contact extends Component {
       var email = this.props.data.email;
       var message = this.props.data.contactmessage;
     }
+     
+      function sendEmail(e) {
+    e.preventDefault();
+
+    emailjs.sendForm('gmail2', 'gmail', e.target, 'user_wTHamYcrOCZzDVcJsNRzV')
+      .then((result) => {
+          console.log(result.text);
+      }, (error) => {
+          console.log(error.text);
+      });
+  }
 
     return (
+
+       
       <section id="contact">
 
          <div className="row section-head">
@@ -36,17 +51,17 @@ class Contact extends Component {
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               <form action="" method="post" id="contact-form" name="contactForm" className="contact-form" onSubmit={sendEmail}>
 					<fieldset>
 
                   <div>
 						   <label htmlFor="contactName">Nombre <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactName" name="contactName" onChange={this.handleChange}/>
+						   <input type="text" defaultValue="" size="35" id="contactName" name="from_name" onChange={this.handleChange}/>
                   </div>
 
                   <div>
 						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>
+						   <input type="text" defaultValue="" size="35" id="contactEmail" name="from_email" onChange={this.handleChange}/>
                   </div>
 
                   <div>
@@ -56,11 +71,11 @@ class Contact extends Component {
 
                   <div>
                      <label htmlFor="contactMessage">Mensaje <span className="required">*</span></label>
-                     <textarea cols="50" rows="15" id="contactMessage" name="contactMessage"></textarea>
+                     <textarea cols="50" rows="15" id="contactMessage" name="message_html"></textarea>
                   </div>
 
                   <div>
-                     <button className="submit">Enviar</button>
+                     <button className="submit" id="submit">Enviar</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>
