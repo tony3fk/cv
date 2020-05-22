@@ -14,14 +14,9 @@
       "state": "Spain",
       "zip": "46006"
     },
-    "website": "http://www.tonydev.com",
+    "website": "http://tonyrodz.zine.press",
     "resumedownload": "https://drive.google.com/file/d/17sXayU3A-GChf6YV56cy8BjoewlEXIlu/view?usp=sharing",
     "social": [
-      {
-        "name": "twitter",
-        "url": "http://twitter.com/tonyrodz_",
-        "className": "fa fa-twitter"
-      },
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/tonyrodz/",
@@ -127,12 +122,6 @@
         "url": "https://gestioninmobiliaria.herokuapp.com/"
       },
       {
-        "title": "Turismo Ecuador",
-        "category": "Mi primer proyecto, lo presenté al Ministerio de Turismo de Ecuador",
-        "image": "smirkspace.jpg",
-        "url": "https://ecuaproject.herokuapp.com/"
-      },
-      {
         "title": "React Pixabay",
         "category": "App React buscador de imágenes libres de derechos en Pixabay",
         "image": "reactpix.jpg",
@@ -143,6 +132,18 @@
         "category": "Portfolio de diseño con Angular 8 ",
         "image": "portfolio.jpg",
         "url": "https://tony3fk.github.io/Angular-Portfolio/"
+      },
+      {
+        "title": "My CV",
+        "category": "Curriculum hecho con React ",
+        "image": "cv.jpg",
+        "url": "https://tony3fk.github.io/cv/"
+      },
+      {
+        "title": "Turismo Ecuador",
+        "category": "Mi primer proyecto, lo presenté al Ministerio de Turismo de Ecuador",
+        "image": "smirkspace.jpg",
+        "url": "https://ecuaproject.herokuapp.com/"
       }
     ]
   },

@@ -14,6 +14,7 @@ class About extends Component {
       var phone= this.props.data.phone;
       var email = this.props.data.email;
       var resumeDownload = this.props.data.resumedownload;
+      
     }
 
     return (
@@ -25,7 +26,10 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>Sobre mí</h2>
 
-            <p>{bio}</p>
+                <p>{bio}<br></br>
+                Se pueden ver algunos de mis trabajos fotográficos <a href="https://www.eyeem.com/u/tonyrodz" target="_blank">aquí.</a></p>
+                
+                
             <div className="row">
                <div className="columns contact-details">
                   <h2>Detalles de contacto</h2>
