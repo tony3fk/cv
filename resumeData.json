@@ -2,11 +2,11 @@
   "main": {
     "name": "Antonio Rodríguez",
     "occupation": "Desarrollador Web",
-    "description": "Soy un desarrollador web recién titulado interesado en proyectos que requieren un pensamiento creativo y analítico, y doy prioridad a la experiencia del usuario en mi trabajo.",
+    "description": "Soy un desarrollador web junior, interesado en proyectos que requieren un pensamiento creativo y analítico, y doy prioridad a la experiencia del usuario en mi trabajo.",
     "image": "profilepic.jpg",
     "bio": "Soy fotógrafo, apasionado de la tecnología y el diseño web. Recién titulado en Desarrollo de Aplicaciones Web e interesado en proyectos que requieren un pensamiento creativo y analítico. Doy prioridad a la experiencia del usuario en mi trabajo.",
     "contactmessage": "Contacto",
-    "email": "tony3fk@yahoo.es",
+    "email": "tony3fk@gmail.com",
     "phone": "+34 698 415 282",
     "address": {
       "street": "Ruzafa",
@@ -41,15 +41,21 @@
         "school": "I.E.S. Abastos (Valencia)",
         "degree": "Técnico Superior en Desarrollo Web",
         "graduated": "Mayo 2020",
-        "description": "Experiencia apasionante. Han sido tres años de continuo aprendizaje y dedicación. Tanto en el campo del desarrollo fullstack, como en el diseño."
+        "description": "Experiencia apasionante. Han sido tres años de continuo aprendizaje y dedicación. Tanto en el campo del desarrollo fullstack, como en el diseño web."
       }
     ],
     "work": [
+       {
+        "company": "Atria Tecnología y Psicología",
+        "title": "Desarrollador Junior",
+        "years": "May 2020 - Presente",
+        "description": "Desarrollo en la app de psicología 'Serenmind'. Montada en Ionic, sobre Angular + Laravel."
+      },
       {
         "company": "Minsait by Indra Sistemas",
-        "title": "Alumno en prácticas ",
-        "years": "March 2020 - Presente",
-        "description": "Estuve formándome en desarrollo de aplicaciones web en un entorno con Hibernate utilizando JSP. También colaboré en mi proceso de formación, con desarrolladores de backend y diseñadores de UX, aprendiendo nuevos conceptos en Laravel y ReactJS."
+        "title": "Becario",
+        "years": "March 2020 - May 2020",
+        "description": "Prácticas en desarrollo de aplicaciones web en un entorno con Hibernate utilizando JSP. También colaboré en mi proceso de formación, con desarrolladores de backend y diseñadores de UX, aprendiendo nuevos conceptos en Laravel y ReactJS."
       },
       {
         "company": "Freelance",
@@ -63,9 +69,18 @@
         "name": "Git",
         "level": "80%"
       },
-      {
-        "name": "Java",
+       {
+        "name": "Ionic",
+        "level": "80%"
+      },
+     
+        {
+        "name": "Angular",
         "level": "70%"
+      },
+        {
+        "name": "Laravel",
+        "level": "80%"
       },
       {
         "name": "PHP",
@@ -75,10 +90,7 @@
         "name": "Mysql",
         "level": "90%"
       },
-      {
-        "name": "Laravel",
-        "level": "50%"
-      },
+    
       {
         "name": "ReactJs",
         "level": "50%"
@@ -91,6 +103,10 @@
         "name": "HTML5",
         "level": "90%"
       },
+       {
+        "name": "Java",
+        "level": "60%"
+      },
       {
         "name": "JavaScript",
         "level": "60%"
@@ -101,12 +117,9 @@
       },
       {
         "name": "VueJs",
-        "level": "50%"
+        "level": "20%"
       },
-      {
-        "name": "Angular 8",
-        "level": "50%"
-      },
+    
       {
         "name": "MongoDB",
         "level": "60%"
