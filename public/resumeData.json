@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Antonio Rodríguez",
+    "name": "Tony Rodríguez",
     "occupation": "Desarrollador Web",
-    "description": "Soy un desarrollador web recién titulado interesado en proyectos que requieren un pensamiento creativo y analítico, y doy prioridad a la experiencia del usuario en mi trabajo.",
+    "description": "Desarrollador Web y fotógrafo en mi tiempo libre.",
     "image": "profilepic.jpg",
-    "bio": "Soy fotógrafo, apasionado de la tecnología y el diseño web. Recién titulado en Desarrollo de Aplicaciones Web e interesado en proyectos que requieren un pensamiento creativo y analítico. Doy prioridad a la experiencia del usuario en mi trabajo.",
+    "bio": "Desarrollador Web y fotógrafo en mi tiempo libre.",
     "contactmessage": "Contacto",
-    "email": "tony3fk@yahoo.es",
+    "email": "dev.tonymail@gmail.com",
     "phone": "+34 698 415 282",
     "address": {
       "street": "Ruzafa",
@@ -41,15 +41,27 @@
         "school": "I.E.S. Abastos (Valencia)",
         "degree": "Técnico Superior en Desarrollo Web",
         "graduated": "Mayo 2020",
-        "description": "Experiencia apasionante. Han sido tres años de continuo aprendizaje y dedicación. Tanto en el campo del desarrollo fullstack, como en el diseño."
+        "description": "Experiencia apasionante. Han sido tres años de continuo aprendizaje y dedicación, con los que he conseguido pegarle un espectacular giro a mi vida profesional."
       }
     ],
     "work": [
       {
+        "company": "ITECH Global Solutions",
+        "title": "Software Developer",
+        "years": "Oct 2020 - Presente",
+        "description": "Desarrollador Web. ReactJS + NodeJS. MERN Stack Developer"
+      },
+      {
+        "company": "SerenMind",
+        "title": "Software Developer",
+        "years": "May 2020 - Oct 2020",
+        "description": "Desarrollador Web. Laravel + Angular + Ionic"
+      },
+      {
         "company": "Minsait by Indra Sistemas",
-        "title": "Alumno en prácticas ",
-        "years": "March 2020 - Presente",
-        "description": "Estuve formándome en desarrollo de aplicaciones web en un entorno con Hibernate utilizando JSP. También colaboré en mi proceso de formación, con desarrolladores de backend y diseñadores de UX, aprendiendo nuevos conceptos en Laravel y ReactJS."
+        "title": "Becario de TI",
+        "years": "March 2020 - May 2020",
+        "description": "Prácticas de DAW en un entorno con Hibernate utilizando JSP. También empecé a conocer nuevos conceptos en Laravel y React JS."
       },
       {
         "company": "Freelance",
@@ -75,41 +87,36 @@
         "name": "Mysql",
         "level": "90%"
       },
+    
       {
         "name": "Laravel",
-        "level": "50%"
-      },
-      {
-        "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "90%"
-      },
-      {
-        "name": "JavaScript",
         "level": "60%"
       },
       {
-        "name": "Bootstrap",
-        "level": "90%"
+        "name": "ReactJs",
+        "level": "80%"
       },
+    
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+     
       {
         "name": "VueJs",
         "level": "50%"
       },
       {
-        "name": "Angular 8",
+        "name": "Angular",
         "level": "50%"
       },
       {
         "name": "MongoDB",
-        "level": "60%"
+        "level": "80%"
+      },
+      {
+        "name": "Express JS",
+        "level": "80%"
       }
     ]
   },
