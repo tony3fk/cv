@@ -1,12 +1,12 @@
 {
   "main": {
-    "name": "Antonio Rodríguez",
+    "name": "Tony Rodríguez",
     "occupation": "Desarrollador Web",
-    "description": "Soy un desarrollador web junior, interesado en proyectos que requieren un pensamiento creativo y analítico, y doy prioridad a la experiencia del usuario en mi trabajo.",
+    "description": "Desarrollador Web y fotógrafo en mi tiempo libre.",
     "image": "profilepic.jpg",
-    "bio": "Soy fotógrafo, apasionado de la tecnología y el diseño web. Recién titulado en Desarrollo de Aplicaciones Web e interesado en proyectos que requieren un pensamiento creativo y analítico. Doy prioridad a la experiencia del usuario en mi trabajo.",
+    "bio": "Desarrollador Web y fotógrafo en mi tiempo libre.",
     "contactmessage": "Contacto",
-    "email": "tony3fk@gmail.com",
+    "email": "dev.tonymail@gmail.com",
     "phone": "+34 698 415 282",
     "address": {
       "street": "Ruzafa",
@@ -41,21 +41,27 @@
         "school": "I.E.S. Abastos (Valencia)",
         "degree": "Técnico Superior en Desarrollo Web",
         "graduated": "Mayo 2020",
-        "description": "Experiencia apasionante. Han sido tres años de continuo aprendizaje y dedicación. Tanto en el campo del desarrollo fullstack, como en el diseño web."
+        "description": "Experiencia apasionante. Han sido tres años de continuo aprendizaje y dedicación, con los que he conseguido pegarle un espectacular giro a mi vida profesional."
       }
     ],
     "work": [
-       {
-        "company": "Atria Tecnología y Psicología",
-        "title": "Desarrollador Junior",
-        "years": "May 2020 - Presente",
-        "description": "Desarrollo en la app de psicología 'Serenmind'. Montada en Ionic, sobre Angular + Laravel."
+      {
+        "company": "ITECH Global Solutions",
+        "title": "Software Developer",
+        "years": "Oct 2020 - Presente",
+        "description": "Desarrollador Web. ReactJS + NodeJS. MERN Stack Developer"
+      },
+      {
+        "company": "SerenMind",
+        "title": "Software Developer",
+        "years": "May 2020 - Oct 2020",
+        "description": "Desarrollador Web. Laravel + Angular + Ionic"
       },
       {
         "company": "Minsait by Indra Sistemas",
-        "title": "Becario",
+        "title": "Becario de TI",
         "years": "March 2020 - May 2020",
-        "description": "Prácticas en desarrollo de aplicaciones web en un entorno con Hibernate utilizando JSP. También colaboré en mi proceso de formación, con desarrolladores de backend y diseñadores de UX, aprendiendo nuevos conceptos en Laravel y ReactJS."
+        "description": "Prácticas de DAW en un entorno con Hibernate utilizando JSP. También empecé a conocer nuevos conceptos en Laravel y React JS."
       },
       {
         "company": "Freelance",
@@ -69,18 +75,9 @@
         "name": "Git",
         "level": "80%"
       },
-       {
-        "name": "Ionic",
-        "level": "80%"
-      },
-     
-        {
-        "name": "Angular",
+      {
+        "name": "Java",
         "level": "70%"
-      },
-        {
-        "name": "Laravel",
-        "level": "80%"
       },
       {
         "name": "PHP",
@@ -92,37 +89,34 @@
       },
     
       {
+        "name": "Laravel",
+        "level": "60%"
+      },
+      {
         "name": "ReactJs",
-        "level": "50%"
-      },
-      {
-        "name": "CSS",
-        "level": "90%"
-      },
-      {
-        "name": "HTML5",
-        "level": "90%"
-      },
-       {
-        "name": "Java",
-        "level": "60%"
-      },
-      {
-        "name": "JavaScript",
-        "level": "60%"
-      },
-      {
-        "name": "Bootstrap",
-        "level": "90%"
-      },
-      {
-        "name": "VueJs",
-        "level": "20%"
+        "level": "80%"
       },
     
       {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+     
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "Angular",
+        "level": "50%"
+      },
+      {
         "name": "MongoDB",
-        "level": "60%"
+        "level": "80%"
+      },
+      {
+        "name": "Express JS",
+        "level": "80%"
       }
     ]
   },
@@ -137,7 +131,7 @@
       {
         "title": "React Pixabay",
         "category": "App React buscador de imágenes libres de derechos en Pixabay",
-        "image": "reactpix.JPG",
+        "image": "reactpix.jpg",
         "url": "https://tony3fk.github.io/react-pixabai/"
       },
       {
